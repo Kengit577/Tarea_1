@@ -11,3 +11,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+Successfully verified contract CalculadoraBlockchain on the block explorer.
+https://sepolia.etherscan.io/address/0x5979f25683ABB82e6b4D46758f327fb0A495C06c#code
+
+
+ Contrato desplegado con éxito!
+📍 Dirección del contrato: 0x5979f25683ABB82e6b4D46758f327fb0A495C06c
